@@ -48,3 +48,5 @@ const signatureType = 1;
 See [examples](examples/) for more information
 
 <!-- Auto-update: 2025-10-13T10:15:05.050129 -->
+
+<!-- Auto-update: 2025-10-16T09:14:11.474937 -->
